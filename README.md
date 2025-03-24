@@ -1,0 +1,1 @@
+# AdiscopeMediaChartBoost-SwiftPackageManager
