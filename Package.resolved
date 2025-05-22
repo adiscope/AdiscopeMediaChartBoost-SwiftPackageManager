@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "adiscope-ios-chartboost",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/Adiscope-iOS-ChartBoost.git",
+      "state" : {
+        "revision" : "e317d65456e1fbdc6c6db752a07ea09fdbd53410",
+        "version" : "4.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
