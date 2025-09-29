@@ -25,8 +25,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdiscopeMediaChartBoost",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.3.0/AdiscopeMediaChartBoost.zip",
-            checksum: "3078974d7332252a376776d47a2b49d3e7aa4801c63aaf3f9a410617a9c5600b"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/4.4.1/AdiscopeMediaChartBoost.zip",
+            checksum: "e767f493d13ed47bf002c6f672892750851791dc7e293df7e3fc5bcc3eff3516"
         ),
     ]
 )
