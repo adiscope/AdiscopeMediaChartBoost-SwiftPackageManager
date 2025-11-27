@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/Adiscope-iOS-ChartBoost.git",
       "state" : {
-        "revision" : "e317d65456e1fbdc6c6db752a07ea09fdbd53410",
-        "version" : "4.3.0"
+        "revision" : "2c302f2c81a82c9bbcd1b12e4e6b9684ec9251a3",
+        "version" : "5.0.0"
       }
     }
   ],
