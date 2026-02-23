@@ -12,7 +12,7 @@ let package = Package(
             targets: ["AdiscopeMediaChartBoostTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/adiscope/Adiscope-iOS-ChartBoost.git", exact: "5.0.0"),
+        .package(url: "https://github.com/adiscope/Adiscope-iOS-ChartBoost.git", exact: "5.2.0"),
     ],
     targets: [
         .target(
@@ -25,8 +25,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdiscopeMediaChartBoost",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.0.2/AdiscopeMediaChartBoost.zip",
-            checksum: "49f0acccbfe8e3b1576c5fa298e3f4af81d84e6af4d891260cd362e53318508a"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.0/AdiscopeMediaChartBoost.zip",
+            checksum: "9fbf71edbe5b23b7c50d549477307b814f75b23867ab034b8c11c67d5708d6cb"
         ),
     ]
 )
